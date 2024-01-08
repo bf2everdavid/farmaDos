@@ -3,6 +3,10 @@
 /public/hot
 /public/storage
 /storage/*.key
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> e3e6505f13a9dadad85a46c6173e02986117d800
 .env.backup
 .env.production
 .phpunit.result.cache
